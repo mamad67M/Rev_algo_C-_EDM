@@ -1,0 +1,7 @@
+C:\Users\standard\source\repos\Rev_alogo\recherche_1\bin\Debug\recherche_1.exe.config
+C:\Users\standard\source\repos\Rev_alogo\recherche_1\bin\Debug\recherche_1.exe
+C:\Users\standard\source\repos\Rev_alogo\recherche_1\bin\Debug\recherche_1.pdb
+C:\Users\standard\source\repos\Rev_alogo\recherche_1\obj\Debug\recherche_1.csproj.AssemblyReference.cache
+C:\Users\standard\source\repos\Rev_alogo\recherche_1\obj\Debug\recherche_1.csproj.CoreCompileInputs.cache
+C:\Users\standard\source\repos\Rev_alogo\recherche_1\obj\Debug\recherche_1.exe
+C:\Users\standard\source\repos\Rev_alogo\recherche_1\obj\Debug\recherche_1.pdb

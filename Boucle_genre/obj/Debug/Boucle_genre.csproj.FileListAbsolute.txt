@@ -1,0 +1,7 @@
+C:\Users\standard\source\repos\Rev_alogo\Boucle_genre\bin\Debug\Boucle_genre.exe.config
+C:\Users\standard\source\repos\Rev_alogo\Boucle_genre\bin\Debug\Boucle_genre.exe
+C:\Users\standard\source\repos\Rev_alogo\Boucle_genre\bin\Debug\Boucle_genre.pdb
+C:\Users\standard\source\repos\Rev_alogo\Boucle_genre\obj\Debug\Boucle_genre.csproj.AssemblyReference.cache
+C:\Users\standard\source\repos\Rev_alogo\Boucle_genre\obj\Debug\Boucle_genre.csproj.CoreCompileInputs.cache
+C:\Users\standard\source\repos\Rev_alogo\Boucle_genre\obj\Debug\Boucle_genre.exe
+C:\Users\standard\source\repos\Rev_alogo\Boucle_genre\obj\Debug\Boucle_genre.pdb

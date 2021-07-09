@@ -1,0 +1,6 @@
+C:\Users\standard\source\repos\Rev_alogo\recherche_2\bin\Debug\recherche_2.exe.config
+C:\Users\standard\source\repos\Rev_alogo\recherche_2\bin\Debug\recherche_2.exe
+C:\Users\standard\source\repos\Rev_alogo\recherche_2\bin\Debug\recherche_2.pdb
+C:\Users\standard\source\repos\Rev_alogo\recherche_2\obj\Debug\recherche_2.csproj.CoreCompileInputs.cache
+C:\Users\standard\source\repos\Rev_alogo\recherche_2\obj\Debug\recherche_2.exe
+C:\Users\standard\source\repos\Rev_alogo\recherche_2\obj\Debug\recherche_2.pdb

@@ -1,0 +1,6 @@
+C:\Users\standard\source\repos\Rev_alogo\FeuxTricolor\bin\Debug\FeuxTricolor.exe.config
+C:\Users\standard\source\repos\Rev_alogo\FeuxTricolor\bin\Debug\FeuxTricolor.exe
+C:\Users\standard\source\repos\Rev_alogo\FeuxTricolor\bin\Debug\FeuxTricolor.pdb
+C:\Users\standard\source\repos\Rev_alogo\FeuxTricolor\obj\Debug\FeuxTricolor.csproj.CoreCompileInputs.cache
+C:\Users\standard\source\repos\Rev_alogo\FeuxTricolor\obj\Debug\FeuxTricolor.exe
+C:\Users\standard\source\repos\Rev_alogo\FeuxTricolor\obj\Debug\FeuxTricolor.pdb

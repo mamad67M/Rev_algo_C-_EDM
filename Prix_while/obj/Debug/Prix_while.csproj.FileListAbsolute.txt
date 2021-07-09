@@ -1,0 +1,7 @@
+C:\Users\standard\source\repos\Rev_alogo\Prix_while\bin\Debug\Prix_while.exe.config
+C:\Users\standard\source\repos\Rev_alogo\Prix_while\bin\Debug\Prix_while.exe
+C:\Users\standard\source\repos\Rev_alogo\Prix_while\bin\Debug\Prix_while.pdb
+C:\Users\standard\source\repos\Rev_alogo\Prix_while\obj\Debug\Prix_while.csproj.AssemblyReference.cache
+C:\Users\standard\source\repos\Rev_alogo\Prix_while\obj\Debug\Prix_while.csproj.CoreCompileInputs.cache
+C:\Users\standard\source\repos\Rev_alogo\Prix_while\obj\Debug\Prix_while.exe
+C:\Users\standard\source\repos\Rev_alogo\Prix_while\obj\Debug\Prix_while.pdb

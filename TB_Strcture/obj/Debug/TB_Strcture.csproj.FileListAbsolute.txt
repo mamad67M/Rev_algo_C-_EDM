@@ -1,0 +1,7 @@
+C:\Users\standard\source\repos\Rev_alogo\TB_Strcture\bin\Debug\TB_Strcture.exe.config
+C:\Users\standard\source\repos\Rev_alogo\TB_Strcture\bin\Debug\TB_Strcture.exe
+C:\Users\standard\source\repos\Rev_alogo\TB_Strcture\bin\Debug\TB_Strcture.pdb
+C:\Users\standard\source\repos\Rev_alogo\TB_Strcture\obj\Debug\TB_Strcture.csproj.AssemblyReference.cache
+C:\Users\standard\source\repos\Rev_alogo\TB_Strcture\obj\Debug\TB_Strcture.csproj.CoreCompileInputs.cache
+C:\Users\standard\source\repos\Rev_alogo\TB_Strcture\obj\Debug\TB_Strcture.exe
+C:\Users\standard\source\repos\Rev_alogo\TB_Strcture\obj\Debug\TB_Strcture.pdb

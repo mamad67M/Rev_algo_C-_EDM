@@ -1,0 +1,7 @@
+C:\Users\standard\source\repos\Rev_alogo\Rev_alogo\bin\Debug\Rev_alogo.exe.config
+C:\Users\standard\source\repos\Rev_alogo\Rev_alogo\bin\Debug\Rev_alogo.exe
+C:\Users\standard\source\repos\Rev_alogo\Rev_alogo\bin\Debug\Rev_alogo.pdb
+C:\Users\standard\source\repos\Rev_alogo\Rev_alogo\obj\Debug\Rev_alogo.csproj.AssemblyReference.cache
+C:\Users\standard\source\repos\Rev_alogo\Rev_alogo\obj\Debug\Rev_alogo.csproj.CoreCompileInputs.cache
+C:\Users\standard\source\repos\Rev_alogo\Rev_alogo\obj\Debug\Rev_alogo.exe
+C:\Users\standard\source\repos\Rev_alogo\Rev_alogo\obj\Debug\Rev_alogo.pdb

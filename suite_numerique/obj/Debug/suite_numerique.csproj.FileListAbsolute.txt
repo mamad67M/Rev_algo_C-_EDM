@@ -1,0 +1,7 @@
+C:\Users\standard\source\repos\Rev_alogo\suite_numerique\bin\Debug\suite_numerique.exe.config
+C:\Users\standard\source\repos\Rev_alogo\suite_numerique\bin\Debug\suite_numerique.exe
+C:\Users\standard\source\repos\Rev_alogo\suite_numerique\bin\Debug\suite_numerique.pdb
+C:\Users\standard\source\repos\Rev_alogo\suite_numerique\obj\Debug\suite_numerique.csproj.AssemblyReference.cache
+C:\Users\standard\source\repos\Rev_alogo\suite_numerique\obj\Debug\suite_numerique.csproj.CoreCompileInputs.cache
+C:\Users\standard\source\repos\Rev_alogo\suite_numerique\obj\Debug\suite_numerique.exe
+C:\Users\standard\source\repos\Rev_alogo\suite_numerique\obj\Debug\suite_numerique.pdb

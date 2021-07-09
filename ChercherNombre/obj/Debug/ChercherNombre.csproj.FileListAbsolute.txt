@@ -1,0 +1,7 @@
+C:\Users\standard\source\repos\Rev_alogo\ChercherNombre\bin\Debug\ChercherNombre.exe.config
+C:\Users\standard\source\repos\Rev_alogo\ChercherNombre\bin\Debug\ChercherNombre.exe
+C:\Users\standard\source\repos\Rev_alogo\ChercherNombre\bin\Debug\ChercherNombre.pdb
+C:\Users\standard\source\repos\Rev_alogo\ChercherNombre\obj\Debug\ChercherNombre.csproj.AssemblyReference.cache
+C:\Users\standard\source\repos\Rev_alogo\ChercherNombre\obj\Debug\ChercherNombre.csproj.CoreCompileInputs.cache
+C:\Users\standard\source\repos\Rev_alogo\ChercherNombre\obj\Debug\ChercherNombre.exe
+C:\Users\standard\source\repos\Rev_alogo\ChercherNombre\obj\Debug\ChercherNombre.pdb

@@ -1,0 +1,7 @@
+C:\Users\standard\source\repos\Rev_alogo\notes_sup_inf\bin\Debug\notes_sup_inf.exe.config
+C:\Users\standard\source\repos\Rev_alogo\notes_sup_inf\bin\Debug\notes_sup_inf.exe
+C:\Users\standard\source\repos\Rev_alogo\notes_sup_inf\bin\Debug\notes_sup_inf.pdb
+C:\Users\standard\source\repos\Rev_alogo\notes_sup_inf\obj\Debug\notes_sup_inf.csproj.AssemblyReference.cache
+C:\Users\standard\source\repos\Rev_alogo\notes_sup_inf\obj\Debug\notes_sup_inf.csproj.CoreCompileInputs.cache
+C:\Users\standard\source\repos\Rev_alogo\notes_sup_inf\obj\Debug\notes_sup_inf.exe
+C:\Users\standard\source\repos\Rev_alogo\notes_sup_inf\obj\Debug\notes_sup_inf.pdb

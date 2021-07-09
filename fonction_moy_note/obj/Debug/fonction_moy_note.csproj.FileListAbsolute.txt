@@ -1,0 +1,7 @@
+C:\Users\standard\source\repos\Rev_alogo\fonction_moy_note\bin\Debug\fonction_moy_note.exe.config
+C:\Users\standard\source\repos\Rev_alogo\fonction_moy_note\bin\Debug\fonction_moy_note.exe
+C:\Users\standard\source\repos\Rev_alogo\fonction_moy_note\bin\Debug\fonction_moy_note.pdb
+C:\Users\standard\source\repos\Rev_alogo\fonction_moy_note\obj\Debug\fonction_moy_note.csproj.AssemblyReference.cache
+C:\Users\standard\source\repos\Rev_alogo\fonction_moy_note\obj\Debug\fonction_moy_note.csproj.CoreCompileInputs.cache
+C:\Users\standard\source\repos\Rev_alogo\fonction_moy_note\obj\Debug\fonction_moy_note.exe
+C:\Users\standard\source\repos\Rev_alogo\fonction_moy_note\obj\Debug\fonction_moy_note.pdb

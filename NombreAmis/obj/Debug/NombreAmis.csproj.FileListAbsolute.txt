@@ -1,0 +1,7 @@
+C:\Users\standard\source\repos\Rev_alogo\NombreAmis\bin\Debug\NombreAmis.exe.config
+C:\Users\standard\source\repos\Rev_alogo\NombreAmis\bin\Debug\NombreAmis.exe
+C:\Users\standard\source\repos\Rev_alogo\NombreAmis\bin\Debug\NombreAmis.pdb
+C:\Users\standard\source\repos\Rev_alogo\NombreAmis\obj\Debug\NombreAmis.csproj.AssemblyReference.cache
+C:\Users\standard\source\repos\Rev_alogo\NombreAmis\obj\Debug\NombreAmis.csproj.CoreCompileInputs.cache
+C:\Users\standard\source\repos\Rev_alogo\NombreAmis\obj\Debug\NombreAmis.exe
+C:\Users\standard\source\repos\Rev_alogo\NombreAmis\obj\Debug\NombreAmis.pdb

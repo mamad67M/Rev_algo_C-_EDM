@@ -1,0 +1,7 @@
+C:\Users\standard\source\repos\Rev_alogo\procedure_ville_parametre\bin\Debug\procedure_ville_parametre.exe.config
+C:\Users\standard\source\repos\Rev_alogo\procedure_ville_parametre\bin\Debug\procedure_ville_parametre.exe
+C:\Users\standard\source\repos\Rev_alogo\procedure_ville_parametre\bin\Debug\procedure_ville_parametre.pdb
+C:\Users\standard\source\repos\Rev_alogo\procedure_ville_parametre\obj\Debug\procedure_ville_parametre.csproj.CoreCompileInputs.cache
+C:\Users\standard\source\repos\Rev_alogo\procedure_ville_parametre\obj\Debug\procedure_ville_parametre.exe
+C:\Users\standard\source\repos\Rev_alogo\procedure_ville_parametre\obj\Debug\procedure_ville_parametre.pdb
+C:\Users\standard\source\repos\Rev_alogo\procedure_ville_parametre\obj\Debug\procedure_ville_parametre.csproj.AssemblyReference.cache

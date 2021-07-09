@@ -1,0 +1,7 @@
+C:\Users\standard\source\repos\Rev_alogo\TriParSelection\bin\Debug\TriParSelection.exe.config
+C:\Users\standard\source\repos\Rev_alogo\TriParSelection\bin\Debug\TriParSelection.exe
+C:\Users\standard\source\repos\Rev_alogo\TriParSelection\bin\Debug\TriParSelection.pdb
+C:\Users\standard\source\repos\Rev_alogo\TriParSelection\obj\Debug\TriParSelection.csproj.AssemblyReference.cache
+C:\Users\standard\source\repos\Rev_alogo\TriParSelection\obj\Debug\TriParSelection.csproj.CoreCompileInputs.cache
+C:\Users\standard\source\repos\Rev_alogo\TriParSelection\obj\Debug\TriParSelection.exe
+C:\Users\standard\source\repos\Rev_alogo\TriParSelection\obj\Debug\TriParSelection.pdb
